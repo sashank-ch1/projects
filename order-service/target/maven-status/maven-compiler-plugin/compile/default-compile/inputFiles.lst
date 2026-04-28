@@ -1,0 +1,9 @@
+C:\projects\order-service\src\main\java\com\example\demo\client\InventoryClient.java
+C:\projects\order-service\src\main\java\com\example\demo\client\PaymentClient.java
+C:\projects\order-service\src\main\java\com\example\demo\client\ProductClient.java
+C:\projects\order-service\src\main\java\com\example\demo\controller\OrderController.java
+C:\projects\order-service\src\main\java\com\example\demo\dto\ProductDTO.java
+C:\projects\order-service\src\main\java\com\example\demo\entity\Orders.java
+C:\projects\order-service\src\main\java\com\example\demo\OrderServiceApplication.java
+C:\projects\order-service\src\main\java\com\example\demo\repository\OrdersRepository.java
+C:\projects\order-service\src\main\java\com\example\demo\service\OrderService.java
